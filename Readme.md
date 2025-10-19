@@ -10,7 +10,7 @@
 
 *** Description:
 
-This script finds the cheapest flight path between two places. 
+This script finds the cheapest flight path between two places.  
 Input is comma seperated values in format:
 
 flight_no 	origin 	destination 	departure 	arrival 	base_price 	bag_price 	bags_allowed
@@ -85,4 +85,5 @@ Searching can be shortened if ,two flights have layover of less than 1 hour or m
                 "travel_time": "2:20:00"
             },
         ]
+
 
